@@ -1,24 +1,17 @@
 [
   {
     "id": 1,
-    "name": "workout",
-    "status": "done",
-    "createdAt": "2025-05-26 08:36:25",
-    "updatedAt": "2025-05-26 09:47:23"
-  },
-  {
-    "id": 2,
     "name": "buy food",
     "status": "in-progress",
-    "createdAt": "2025-05-26 08:36:47",
-    "updatedAt": "2025-05-26 08:37:52"
+    "createdAt": "2025-05-26 08:36:25",
+    "updatedAt": "2025-05-26 16:20:19"
   },
   {
     "id": 3,
     "name": "buy drinks",
-    "status": "todo",
+    "status": "done",
     "createdAt": "2025-05-26 08:37:13",
-    "updatedAt": ""
+    "updatedAt": "2025-05-26 16:02:52"
   },
   {
     "id": 4,
