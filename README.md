@@ -1,5 +1,6 @@
 # 📝 Task CLI
 A simple Python command-line interface (CLI) tool for managing a to-do list. Tasks are stored in a local `tasks.json` file and can be added, listed, updated, marked with a status, or deleted.
+(Project idea from [roadmap.sh](https://roadmap.sh/projects/task-tracker))
 
 ## 📦 Features
 - Add new tasks with a name
